@@ -1,0 +1,1 @@
+<view class="container"><image class="avatar _img" src="{{src}}" alt="avatar"></image><view>你好<label class="name _span">{{name}}</label></view><view class="intro">{{"你现在的位置： "+city}}</view></view>

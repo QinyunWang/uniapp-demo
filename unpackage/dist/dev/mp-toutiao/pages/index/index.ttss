@@ -1,0 +1,19 @@
+
+.container {
+	padding: 20px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.avatar {
+	float: right;
+	width: 100px;
+	height: 100px;
+	-webkit-border-radius: 50px;
+	        border-radius: 50px;
+}
+.name {
+	margin-top: 50px;
+	display: inline-block;
+	color: #F0AD4E;
+}
+
